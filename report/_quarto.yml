@@ -1,5 +1,6 @@
 project:
   type: book
+  output_dir: _book
 
 book:
   title: "DS2023 Final Example"
